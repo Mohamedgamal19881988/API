@@ -4,7 +4,7 @@ Our backend CRUD Operations Management System is a powerful and efficient soluti
 
 Key Features:
 
-Create: The system allows users to effortlessly create new records or entities in the database. By providing a simple and intuitive interface, it eliminates the need for complex SQL queries and reduces development time.
+Create: The system allows users to effortlessly create new records or entities in the database. By providing a simple and intuitive interface, it eliminates the need for complex Mongo queries and reduces development time.
 
 Read: Users can easily retrieve specific data by performing read operations. The system supports flexible querying capabilities, enabling users to filter, sort, and paginate data according to their requirements. It ensures quick and efficient access to the desired information.
 
